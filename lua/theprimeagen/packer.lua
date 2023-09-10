@@ -74,6 +74,7 @@ return require('packer').startup(function(use)
   use("eandrju/cellular-automaton.nvim")
   use("laytan/cloak.nvim")
   use("preservim/nerdtree")
+  use("rhysd/vim-clang-format")
 
 end)
 
